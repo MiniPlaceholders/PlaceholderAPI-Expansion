@@ -18,7 +18,7 @@ velocity-api = { group = "com.velocitypowered", name = "velocity-api", version.r
 paper-api = { group = "io.papermc.paper", name = "paper-api", version.ref = "paper" }
 miniplaceholders = { group = "io.github.miniplaceholders", name = "miniplaceholders-api", version.ref = "miniplaceholders" }
 placeholderapi = { group = "me.clip", name = "placeholderapi", version = "2.11.5" }
-proxybridge = "net.william278:papiproxybridge:1.4.2"
+proxybridge = "net.william278:papiproxybridge:1.7"
 
 [plugins]
 
